@@ -1,11 +1,11 @@
 # Frontend Mentor - Testimonials grid section
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 
 ## The challenge
 
-Your challenge is to build out this section and get it looking as close to the design as possible.
+Your challenge is to build out this page and get it looking as close to the design as possible.
 
 
 ## Screenshot
